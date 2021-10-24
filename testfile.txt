@@ -1,4 +1,4 @@
-Hello, this is SSH based connection!
+Hello, please note that this is SSH based connection!
 
 This is a test file for sample download!
 
