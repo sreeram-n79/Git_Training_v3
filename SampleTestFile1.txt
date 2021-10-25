@@ -1,3 +1,8 @@
 This is Sample File 1
 
+<<<<<<< HEAD
 This guide provides installation instructions and scenarios and for Ansible Automation Platform. Learn how to install Ansible Automation Platform or standalone instances of Ansible Tower or Automation Hub
+=======
+This is Revert commit 1
+This is comparison lecture
+>>>>>>> main
