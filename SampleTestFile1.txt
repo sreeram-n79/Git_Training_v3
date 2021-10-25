@@ -1,3 +1,4 @@
 This is Sample File 1
 
 This is Revert commit 1
+This is comparison lecture
