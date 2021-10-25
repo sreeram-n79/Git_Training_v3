@@ -6,3 +6,4 @@ This guide provides installation instructions and scenarios and for Ansible Auto
 This is Revert commit 1
 This is comparison lecture
 >>>>>>> main
+This is Stash Lecture. Change in file 1
